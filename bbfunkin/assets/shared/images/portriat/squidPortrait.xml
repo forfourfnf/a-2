@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="squidPortrait.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Senpai Portrait Enter0000" x="0" y="0" width="204" height="320" frameX="0" frameY="0" frameWidth="235" frameHeight="320"/>
+	<SubTexture name="Senpai Portrait Enter0001" x="204" y="0" width="203" height="320" frameX="-11" frameY="0" frameWidth="235" frameHeight="320"/>
+	<SubTexture name="Senpai Portrait Enter0002" x="407" y="0" width="204" height="320" frameX="-18" frameY="0" frameWidth="235" frameHeight="320"/>
+	<SubTexture name="Senpai Portrait Enter0003" x="611" y="0" width="204" height="320" frameX="-24" frameY="0" frameWidth="235" frameHeight="320"/>
+	<SubTexture name="Senpai Portrait Enter0004" x="815" y="0" width="203" height="320" frameX="-28" frameY="0" frameWidth="235" frameHeight="320"/>
+	<SubTexture name="Senpai Portrait Enter0005" x="0" y="320" width="204" height="320" frameX="-30" frameY="0" frameWidth="235" frameHeight="320"/>
+	<SubTexture name="Senpai Portrait Enter0006" x="204" y="320" width="204" height="320" frameX="-31" frameY="0" frameWidth="235" frameHeight="320"/>
+	<SubTexture name="Senpai Portrait Enter0007" x="408" y="320" width="204" height="320" frameX="-31" frameY="0" frameWidth="235" frameHeight="320"/>
+	<SubTexture name="Senpai Portrait Enter0008" x="408" y="320" width="204" height="320" frameX="-31" frameY="0" frameWidth="235" frameHeight="320"/>
+</TextureAtlas>
