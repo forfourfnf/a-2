@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HuggyWuggy.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HuggyIdleDance0000" x="0" y="0" width="984" height="1336" frameX="-2" frameY="-57" frameWidth="997" frameHeight="1399"/>
+	<SubTexture name="HuggyIdleDance0001" x="0" y="0" width="984" height="1336" frameX="-1" frameY="-45" frameWidth="997" frameHeight="1399"/>
+	<SubTexture name="HuggyIdleDance0002" x="991" y="0" width="983" height="1349" frameX="-1" frameY="-33" frameWidth="997" frameHeight="1399"/>
+	<SubTexture name="HuggyIdleDance0003" x="991" y="0" width="983" height="1349" frameX="0" frameY="-22" frameWidth="997" frameHeight="1399"/>
+	<SubTexture name="HuggyIdleDance0004" x="1982" y="0" width="984" height="1360" frameX="0" frameY="-10" frameWidth="997" frameHeight="1399"/>
+	<SubTexture name="HuggyIdleDance0005" x="1982" y="0" width="984" height="1360" frameX="-2" frameY="-8" frameWidth="997" frameHeight="1399"/>
+	<SubTexture name="HuggyIdleDance0006" x="2986" y="0" width="983" height="1373" frameX="-3" frameY="-5" frameWidth="997" frameHeight="1399"/>
+	<SubTexture name="HuggyIdleDance0007" x="2986" y="0" width="983" height="1373" frameX="-5" frameY="-2" frameWidth="997" frameHeight="1399"/>
+	<SubTexture name="HuggySingDown0000" x="0" y="1351" width="985" height="1337" frameX="-210" frameY="100" frameWidth="1011" frameHeight="1350"/>
+	<SubTexture name="HuggySingDown0001" x="0" y="1351" width="985" height="1337" frameX="-217" frameY="97" frameWidth="1011" frameHeight="1350"/>
+	<SubTexture name="HuggySingDown0002" x="994" y="1359" width="984" height="1337" frameX="-224" frameY="93" frameWidth="1011" frameHeight="1350"/>
+	<SubTexture name="HuggySingDown0003" x="994" y="1359" width="984" height="1337" frameX="-231" frameY="89" frameWidth="1011" frameHeight="1350"/>
+	<SubTexture name="HuggySingLeft0000" x="1996" y="1371" width="985" height="1357" frameX="-62" frameY="-33" frameWidth="992" frameHeight="1412"/>
+	<SubTexture name="HuggySingLeft0001" x="1996" y="1371" width="985" height="1357" frameX="-63" frameY="-33" frameWidth="992" frameHeight="1412"/>
+	<SubTexture name="HuggySingLeft0002" x="2985" y="1381" width="983" height="1362" frameX="-63" frameY="-18" frameWidth="992" frameHeight="1412"/>
+	<SubTexture name="HuggySingLeft0003" x="2985" y="1381" width="983" height="1362" frameX="-60" frameY="-7" frameWidth="992" frameHeight="1412"/>
+	<SubTexture name="HuggySingRIght0000" x="0" y="2699" width="989" height="1325" frameX="-32" frameY="8" frameWidth="1015" frameHeight="1402"/>
+	<SubTexture name="HuggySingRIght0001" x="0" y="2699" width="989" height="1325" frameX="-33" frameY="5" frameWidth="1015" frameHeight="1402"/>
+	<SubTexture name="HuggySingRIght0002" x="999" y="2705" width="985" height="1325" frameX="-34" frameY="13" frameWidth="1015" frameHeight="1402"/>
+	<SubTexture name="HuggySingRIght0003" x="999" y="2705" width="985" height="1325" frameX="-34" frameY="31" frameWidth="1015" frameHeight="1402"/>
+	<SubTexture name="HuggySingUp0000" x="1997" y="2733" width="997" height="1363" frameX="-280" frameY="50" frameWidth="1016" frameHeight="1491"/>
+	<SubTexture name="HuggySingUp0001" x="1997" y="2733" width="997" height="1363" frameX="-284" frameY="67" frameWidth="1016" frameHeight="1491"/>
+	<SubTexture name="HuggySingUp0002" x="2996" y="2743" width="999" height="1353" frameX="-288" frameY="84" frameWidth="1016" frameHeight="1491"/>
+	<SubTexture name="HuggySingUp0003" x="2996" y="2743" width="999" height="1353" frameX="-292" frameY="100" frameWidth="1016" frameHeight="1491"/>
+</TextureAtlas>

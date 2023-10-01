@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "HuggyIdleDance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "HuggySingLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-124
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "HuggySingDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				261,
+				-8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "HuggySingUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-48
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "HuggySingRIght",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DADDY_DEAREST",
+	"position": [
+		250,
+		-720
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-120,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
