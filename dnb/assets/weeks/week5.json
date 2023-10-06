@@ -1,0 +1,111 @@
+{
+	"songs": [
+		[
+			"Screwed",
+			"bambi-angey",
+			[
+				0,
+				180,
+				0
+			]
+		],
+		[
+			"Mealie",
+			"bambi",
+			[
+				0,
+				180,
+				0
+			]
+		],
+		[
+			"Furiosity",
+			"dave-furiosity",
+			[
+				255,
+				193,
+				253
+			]
+		],
+		[
+			"Old-Insanity",
+			"dave-old",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Old-Corn-Theft",
+			"bambi-old",
+			[
+				0,
+				180,
+				0
+			]
+		],
+		[
+			"Old-Maze",
+			"bambi-old",
+			[
+				0,
+				180,
+				0
+			]
+		],
+		[
+			"Supernovae",
+			"bambi-joke",
+			[
+				0,
+				220,
+				0
+			]
+		],
+		[
+			"Glitch",
+			"bambi-joke",
+			[
+				0,
+				220,
+				0
+			]
+		],
+		[
+			"Cheating",
+			"3DBAMBI",
+			[
+				0,
+				240,
+				0
+			]
+		],
+		[
+			"Unfairness",
+			"unfair",
+			[
+				106,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "bonus!",
+	"weekName": "Week 5",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

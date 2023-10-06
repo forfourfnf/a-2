@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Splitathon",
+			"dave-n-bambi",
+			[
+				0,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "finale",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "The Finale",
+	"weekName": "Week 4",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

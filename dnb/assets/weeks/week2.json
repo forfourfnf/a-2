@@ -1,0 +1,25 @@
+{
+	"storyName": "BRUH THERES MORE???",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Bonus-Song",
+			"dave",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week 2"
+}
